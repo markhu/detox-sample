@@ -1160,3 +1160,11 @@ patch:
         patched: '2020-05-05T06:57:51.968Z'
     - react-native > @react-native-community/cli > metro > metro-transform-worker > metro > async > lodash:
         patched: '2022-04-09T04:19:04.653Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > async > lodash:
+        patched: '2022-04-09T04:56:02.946Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro-config > metro > async > lodash:
+        patched: '2022-04-09T04:56:02.946Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-config > metro > async > lodash:
+        patched: '2022-04-09T04:56:02.946Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-plugin-metro > metro > metro-transform-worker > metro > async > lodash:
+        patched: '2022-04-09T04:56:02.946Z'
