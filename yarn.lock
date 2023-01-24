@@ -2262,10 +2262,10 @@
   resolved "https://registry.yarnpkg.com/@sideway/pinpoint/-/pinpoint-2.0.0.tgz#cff8ffadc372ad29fd3f78277aeb29e632cc70df"
   integrity sha512-RNiOoTPkptFtSVzQevY/yWtZwf/RxyVnPy/OcA9HBM3MlGDnBEYL5B41H0MTn0Uec8Hi+2qUtTfG2WWZBmMejQ==
 
-"@snyk/protect@^1.900.0":
-  version "1.900.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.900.0.tgz#8326e163459e223f4601ec0815a94f577520c5b1"
-  integrity sha512-eeGZJu3ucvTrUTszrWXzT+yIsFqoOo4ywv4JRmJgdKkOQ3Udmy3moY1k9Sfnf86p+cGBy5WBUjDM8+9I8L0IpQ==
+"@snyk/protect@latest":
+  version "1.1090.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1090.0.tgz#ef193e9cd6beb194ac389dfd855ee73ff09efe02"
+  integrity sha512-g1ZHcdN+QsbyYARLn1DqBcrtmgU3jst/H/PF5ajw99G9ISs9hUJLAGwHdfp/CrJa8JdbRe+Y7lT1ga9qciSQWQ==
 
 "@tootallnate/once@1":
   version "1.1.2"
@@ -8345,8 +8345,9 @@ qs@6.11.0, qs@^6.2.1, qs@^6.5.0, qs@^6.5.1, qs@^6.9.4:
     side-channel "^1.0.4"
 
 qs@~6.4.0:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.0.tgz#13e26d28ad6b0ffaa91312cd3bf708ed351e7233"
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.4.1.tgz#2bad97710a5b661c366b378b1e3a44a592ff45e6"
+  integrity sha512-LQy1Q1fcva/UsnP/6Iaa4lVeM49WiOitu2T4hZCyA/elLKu37L99qcBJk4VCCk+rdLvnMzfKyiN3SZTqdAZGSQ==
 
 qs@~6.5.1:
   version "6.5.1"
