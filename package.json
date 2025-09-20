@@ -26,7 +26,7 @@
   "dependencies": {
     "expo": "^34.0.1",
     "react": "16.5.0",
-    "react-native": "0.68.0",
+    "react-native": "0.71.0",
     "@snyk/protect": "latest"
   },
   "detox": {
